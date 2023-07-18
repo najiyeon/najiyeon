@@ -21,5 +21,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=najiyeon&show_icons=true&theme=radical)
