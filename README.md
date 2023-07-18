@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="skwldus@hanyang.ac.kr" target="_blank"><img src="https://img.shields.io/badge/skwldus@hanyang.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=FFFFFF"/></a>
+<a href="mailto:skwldus@hanyang.ac.kr" target="_blank"><img src="https://img.shields.io/badge/skwldus@hanyang.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/o2o1o5/" target="_blank"><img src="https://img.shields.io/badge/o2o1o5-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
 
 #### ☁ Platforms & Languages
