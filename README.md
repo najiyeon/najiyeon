@@ -11,13 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"></a>
 -->
 
 <a href="mailto:skwldus@hanyang.ac.kr" target="_blank"><img src="https://img.shields.io/badge/skwldus@hanyang.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/o2o1o5/" target="_blank"><img src="https://img.shields.io/badge/o2o1o5-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
 
 #### ☁ Platforms & Languages
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
