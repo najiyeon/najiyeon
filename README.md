@@ -1,5 +1,11 @@
 <div align="center">
 
+<!--
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Welcome%20to%20Jiyeon%20Na's%20Github&fontSize=50)
+-->
+
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=Jiyeon%20Na's%20Github&fontAlign=30&fontSize=30&desc=Welcome%20to%20my%20github!&descAlign=60&descAlignY=50&theme=radical)
+
 #### 🔗 Check Out My Blog
 
 <a href="https://najiyeon.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-222222?style=plastic&logo=githubpages&logoColor=FFFFFF"/></a>
